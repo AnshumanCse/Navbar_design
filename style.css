@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    text-decoration: none;
+
+}
+header{
+    display: flex;
+    justify-content: flex-end;
+    /* justify-content: space-between; for center navs */
+    align-items: center;
+    padding: 30px 10%;
+}
+.logo{
+    /* if we want to center just remove it */
+    margin-right: auto;
+}
+.nav_links{
+    list-style: none;
+    /* justify-content: left; */
+    justify-content: flex-end;
+
+}
+.nav_links li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+.nav_links li a{
+    transition: all 0.3 ease 0s;
+}
+.nav_links li a:hover{
+    /* transition: all 0.3 ease 0s; */
+    color: red;
+}
