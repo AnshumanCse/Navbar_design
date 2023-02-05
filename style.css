@@ -31,6 +31,6 @@ header{
     transition: all 0.3 ease 0s;
 }
 .nav_links li a:hover{
-    /* transition: all 0.3 ease 0s; */
+    /* transition: all 0.3 ease 0s;  up and down color on hover */
     color: red;
 }
