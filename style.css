@@ -9,7 +9,7 @@
 header{
     display: flex;
     justify-content: flex-end;
-    /* justify-content: space-between; for center navs use this and remove nav-links property.*/
+    /* justify-content: space-between; for center navs use this and remove nav-links property perfect.*/
     align-items: center;
     padding: 30px 10%;
 }
