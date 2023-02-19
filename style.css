@@ -28,7 +28,7 @@ header{
     padding: 0px 20px;
 }
 .nav_links li a{
-    transition: all 0.5 ease 1s;
+    transition: all 0.5 ease 2s;
 }
 .nav_links li a:hover{
     /* transition: all 0.3 ease 0s;  up and down color on hover */
