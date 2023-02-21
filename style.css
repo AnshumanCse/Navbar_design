@@ -12,6 +12,7 @@ header{
     /* justify-content: space-between; for center navs use this and remove nav-links property.*/
     align-items: center;
     padding: 33px 10%;
+    justify-content:center;
 }
 .logo{
     /* if we want to center just remove it */
