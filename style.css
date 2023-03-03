@@ -34,6 +34,6 @@ header{
 .nav_links li a:hover{
     /* transition: all 0.3 ease 0s;  up and down color on hover */
     color: red;
-    background-color: ;
+    background-color: trancparant;
 }
 /*it is main design of the navbar:*/
