@@ -41,4 +41,6 @@ header{
 /* transition and transmission */
 
 .nav:before {
+    
+    transision: ;
 }
