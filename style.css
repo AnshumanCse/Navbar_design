@@ -37,3 +37,8 @@ header{
     background-color: trancparant;
 }
 /*it is main design of the navbar:*/
+
+/* transition and transmission */
+
+.nav:before {
+}
